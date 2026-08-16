@@ -1,0 +1,47 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+[Aa]ssets/_Recovery*
+
+# IDE and editor files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.vsconfig
+UpgradeLog.htm
+
+# Unity/OS generated files
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+*.app
+.DS_Store
+Thumbs.db
+
+# Crash and temporary files
+crashlytics-build.properties
+mono_crash.*
+
+# Keep source assets and project configuration in Git:
+# Assets/, Packages/, ProjectSettings/
